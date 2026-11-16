@@ -1,0 +1,13 @@
+{
+  "name": "bluematrix-scheduler",
+  "version": "1.0.0",
+  "description": "Web UI untuk mengatur cron/scheduler di Linux OpenStick",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "MIT"
+}
